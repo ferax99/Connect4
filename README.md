@@ -2,7 +2,6 @@
 This is a multiplayer version of connect 4 game implemented with reactJs and sockets.
 
 ## How to run
-
 In the project directory, you can run:
 
 ### `In the server folder`
