@@ -3,7 +3,7 @@ import io from 'socket.io-client';
 import Board from './Components/Board';
 //https://coolors.co/palette/06aed5-086788-f0c808-fff1d0-dd1c1a
 const puerto = 4001;
-const socket = io.connect('http://192.168.0.9:'+puerto)
+const socket = io.connect('http://localhost:'+puerto)
 var x = Array(6).fill().map(()=>[0,0,0,0,0,0,0]);
 
 function App() {
