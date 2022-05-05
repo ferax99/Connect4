@@ -1,8 +1,8 @@
 # Connect4
-This is a multiplayer version of connect 4 game implemented with reactJs and sockets.
+This is a multiplayer version of connect 4 game implemented with reactJs and sockets.To run this software you need to have nodejs and npm installed.
 
 ## How to run
-In the project directory, you can run:
+The first step is to start the server, once this is done the client can be run.
 
 ### `In the server folder`
 
